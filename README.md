@@ -1,5 +1,5 @@
 # Frogger_REWORK
-<small> Reworked the Frogger-Clone repository. </small>
+<small> Reworked the Frogger-Clone repository. </small><br>
 <small> After going back and viewing the old code I noticed I could have shortened up some of the collision and some of the spawning objects on the screen. </small><br>
 <small>Created a new PlayerHit function that controls some of the collision and scoring. </small><br>
 <small>Reduced the amount of classes I had initially for the vehicles down to just one class that controls all vehicles.</small><br>
