@@ -1,4 +1,4 @@
-# Frogger Reworked
+# Frogger reworked version
 <small> Reworked the Frogger-Clone repository. </small><br>
 <small> After going back and viewing the old code I noticed I could have shortened up some of the collision and some of the spawning objects on the screen. </small><br>
 <small>Created a new PlayerHit class with two functions that control some of the collision and scoring. </small><br>
