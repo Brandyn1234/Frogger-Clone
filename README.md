@@ -1,8 +1,6 @@
 # Frogger reworked version
-<small> Reworked the Frogger-Clone repository. </small><br>
-<small> After going back and viewing the old code I noticed I could have shortened up some of the collision and some of the spawning objects on the screen. </small><br>
-<small>Created a new PlayerHit class with two functions that control some of the collision and scoring. </small><br>
-<small>Reduced the amount of classes I had initially for the vehicles down to just one class that controls all vehicles.</small><br>
-<small>Reduced the amount of grass object classes I had aswell down to just one class for all grass objects. </small><br>
-<small>Renamed most of the static variables and functions to follow the standard Python naming style.</small><br>
+To run this application follow these steps:
+1. Click the green "code" icon and download zip.
+2. Extract the files to your preferred location.
+3. Open Frogger-Clone-main/Frogger REWORK folder and run main.py
 <small>Created in Python by Brandyn Watkins</small>
