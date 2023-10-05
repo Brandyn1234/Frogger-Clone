@@ -6,14 +6,18 @@
 
 
 ## How to run this project:
-* Must have Python and Pygame installed on your machine.
+* Must have Python & Pygame installed on your machine.
 * Create a clone of this repository and extract the folder "Frogger-Clone-main" to preferred location.
 * You then should be able to run the main.py file inside of folder Frogger REWORK.
 
+## How to play:
+* Use the arrow keys to move.
+* Capture 5 frogs before the timer runs out or losing all 3 lives.
+
 ## I also uploaded this project onto itch.io (website for indie game developers)
-* Made the project into an executable with pyinstaller (still requires you to have Python/Pygame installed on your machine).
+* Made the project into an executable with pyinstaller (this still requires you to have Python & Pygame installed on your machine).
 * Here is a link to the project on my itch.io profile [click here](https://jelybeenz.itch.io/frogger) :point_left:
 
 ### About this project:
-* This was one of my first projects ever made with Python using Pygame library.
+* This was one of my first projects ever made with Python using the Pygame library.
 * Learned about using while loops for games, collision detection, classes, functions, for loops, rendering images.
