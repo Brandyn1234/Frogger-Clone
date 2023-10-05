@@ -8,7 +8,7 @@
 * You then should be able to run the main.py file inside of folder Frogger REWORK.
 
 ## I also uploaded this project onto itch.io (website for indie game developers)
-* Here is a link to the project on my itch.io profile [click] (https://jelybeenz.itch.io/frogger)
+* Here is a link to the project on my itch.io profile [click](https://jelybeenz.itch.io/frogger)
 
 ### About this project:
 * This project was one of my first projects ever made with Python using Pygame library.
