@@ -7,7 +7,7 @@
 
 ## How to run this project:
 * Must have Python and Pygame installed on your machine.
-* Create a clone of this repository and extract the folder to preferred location.
+* Create a clone of this repository and extract the folder "Frogger-Clone-main" to preferred location.
 * You then should be able to run the main.py file inside of folder Frogger REWORK.
 
 ## I also uploaded this project onto itch.io (website for indie game developers)
