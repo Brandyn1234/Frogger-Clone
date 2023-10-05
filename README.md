@@ -12,5 +12,5 @@
 * Here is a link to the project on my itch.io profile [click here](https://jelybeenz.itch.io/frogger) :point_left:
 
 ### About this project:
-* This project was one of my first projects ever made with Python using Pygame library.
+* This was one of my first projects ever made with Python using Pygame library.
 * Learned about using while loops for games, collision detection, classes, functions, for loops, rendering images.
