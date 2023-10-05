@@ -2,7 +2,7 @@
 
 ## 1 level remake of Arcade Game: Frogger (1981 Konami) 
 
-![](https://github.com/Brandyn1234/Frogger-Clone/tree/main/Frogger%20REWORK/img/frogger.png)
+![](https://github.com/Brandyn1234/Frogger-Clone/tree/main/Frogger%20REWORK/img/frogger.png?raw=true)
 
 ## How to run this project:
 * Must have Python and Pygame installed on your machine.
