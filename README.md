@@ -9,7 +9,7 @@
 
 ## I also uploaded this project onto itch.io (website for indie game developers)
 * Made the project into an executable with pyinstaller (still requires you to have Python/Pygame installed on your machine).
-* Here is a link to the project on my itch.io profile [click](https://jelybeenz.itch.io/frogger) :point_left:
+* Here is a link to the project on my itch.io profile [click here](https://jelybeenz.itch.io/frogger) :point_left:
 
 ### About this project:
 * This project was one of my first projects ever made with Python using Pygame library.
