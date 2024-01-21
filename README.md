@@ -15,7 +15,7 @@
 * Capture 5 frogs before the timer runs out or losing all 3 lives.
 
 ## I also uploaded this project onto itch.io (website for indie game developers)
-* Made the project into an executable with pyinstaller (this still requires you to have Python & Pygame installed on your machine).
+* Made the project into an executable with pyinstaller (this doesn't require you to have Python & Pygame installed on your machine).
 * Here is a link to the project on my itch.io profile [click here](https://jelybeenz.itch.io/frogger) :point_left:
 
 ### About this project:
