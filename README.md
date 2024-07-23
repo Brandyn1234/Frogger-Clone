@@ -8,7 +8,7 @@
 ## How to run this project:
 * Must have Python & Pygame installed on your machine.
 * Create a clone of this repository and extract the folder "Frogger-Clone-main" to preferred location.
-* You then should be able to run the main.py file inside of folder Frogger REWORK.
+* Run the main.py file inside of folder Frogger REWORK.
 
 ## How to play:
 * Use the arrow keys to move.
